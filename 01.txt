@@ -1,0 +1,5 @@
+*colour scheme: (B,G,R)
+
+*HSV: hue saturation value: colour saturation brightness
+
+* 0xFF = 11111111
